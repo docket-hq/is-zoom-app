@@ -1,7 +1,7 @@
 {
   "name": "is-zoom-app",
   "version": "1.0.0",
-  "description": "Detect if running within Zoom Apps.",
+  "description": "Detect if app is running within Zoom Apps.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,11 +12,8 @@
   },
   "keywords": [
     "zoom",
-    "zoom",
     "apps",
     "zoomapps",
-    "zoom",
-    "app",
     "zoomapp"
   ],
   "author": "xenostar <bryan.a.leewood@gmail.com> (https://www.xenostar.net/)",
