@@ -1,6 +1,6 @@
 {
   "name": "is-zoom-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect if your app is running within Zoom Apps.",
   "main": "index.js",
   "scripts": {
