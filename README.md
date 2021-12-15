@@ -8,7 +8,7 @@ Detect if app is running within Zoom Apps.
 npm install --save is-zoom-app
 ```
 
-## Demo
+## Usage
 
 ```js
 import isZoomApp from 'is-zoom-app';
@@ -18,6 +18,6 @@ console.log(isZoomApp());
 
 ## License
 
-Copyright (c) 2021 Bryan Leewood
+Copyright (c) 2021 Docket
 
 Licensed under the [MIT License](LICENSE).

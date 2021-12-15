@@ -1,6 +1,6 @@
 {
   "name": "is-zoom-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Detect if your app is running within Zoom Apps.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xenostar/is-zoom-app.git"
+    "url": "git+https://github.com/docket-hq/is-zoom-app.git"
   },
   "keywords": [
     "zoom",
     "zoomapps",
     "zoomapp"
   ],
-  "author": "xenostar <bryan.a.leewood@gmail.com> (https://www.xenostar.net/)",
+  "author": "docket-hq <help@dockethq.com> (https://www.dockethq.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xenostar/is-zoom-app/issues"
+    "url": "https://github.com/docket-hq/is-zoom-app/issues"
   },
-  "homepage": "https://github.com/xenostar/is-zoom-app"
+  "homepage": "https://github.com/docket-hq/is-zoom-app"
 }
