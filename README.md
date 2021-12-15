@@ -1,10 +1,10 @@
 # is-zoom-app
 
-Detect if app is running within Zoom Apps.
+Detect if your app is running within Zoom Apps.
 
 ## Installation
 
-```bash
+```
 npm install --save is-zoom-app
 ```
 
